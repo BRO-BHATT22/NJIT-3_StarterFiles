@@ -82,7 +82,36 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "All Quiet On The Western Front",
+            "iscore": 7.8,
+            "rating": "R",
+            "runtime": 148,
+            "released": [2022, 10, 7],
+            "country": "Germany",
+            "posters": ["img/ger1.jpg", "img/ger2.jpg", "img/ger3.jpg" ],
+            "imdb": "https://www.imdb.com/title/tt1016150/",
+            "website": "https://valkyriemovie.fandom.com/wiki/All_Quiet_on_the_Western_Front",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      },
+      {
+            "title": "All Quiet On The Western Front",
+            "iscore": 7.8,
+            "rating": "R",
+            "runtime": 148,
+            "released": [2022, 10, 7],
+            "country": "Germany",
+            "posters": ["img/ger1.jpg", "img/ger2.jpg", "img/ger3.jpg" ],
+            "imdb": "https://www.imdb.com/title/tt1016150/",
+            "website": "https://valkyriemovie.fandom.com/wiki/All_Quiet_on_the_Western_Front",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
       }
+      
       
 
 ]
