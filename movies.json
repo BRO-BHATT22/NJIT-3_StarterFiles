@@ -68,5 +68,21 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Jurassic Park",
+            "iscore": 8.2,
+            "rating": "PG-13",
+            "runtime": 127,
+            "released": [1993, 6, 11],
+            "country": "USA",
+            "posters": ["img/test.jpg", "img/jp1.jpg", "img/jp2.jpg" ],
+            "imdb": "https://www.imdb.com/title/tt0107290/?ref_=tt_mv_close",
+            "website": "https://jurassicpark.fandom.com/wiki/JurassicPark.com",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
       }
+      
+
 ]
